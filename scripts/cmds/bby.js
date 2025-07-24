@@ -162,15 +162,14 @@ module.exports.onChat = async ({
  if (body.startsWith("baby") || body.startsWith("bby") || body.startsWith("বেবি") || body.startsWith("bot") || body.startsWith("fahad") || body.startsWith("babu") || body.startsWith("বট")) {
  const arr = body.replace(/^\S+\s*/, "")
  const randomReplies = [
-  "😏 Tui bollei mon gulo fuler moto fute uthe",
+  "😏 Assalamuyalaikum",
   "😉 Ei raat e tumi aar ami... kichu ekta spicy hobe naki?",
   "💋 Tor voice ta amar heart-er ringtone hote pare!",
   "😼 Dekhlei tor chokh e chemistry lage... physics nai?",
   "😇 Bujhlam, tui flirt kora sikhli amar theke!",
   "🥀 Tui jodi chash hoye jash, ami tor ghum bhenge debo...",
   "👀 Toke dekhe mon chay... daily dekhi!",
-  "🥺amake na deke amr boss ar inbox a nok deo my boss inbox m.me/rocky.top.video.editor",
-  "my owner inbox link m.me/Bangladesh.Top.Video.Editor.Rocky.Vai.320",
+  "🥺amake na deke amr boss ar inbox a nok deo my boss inbox m.me/100001044726844",
 ];
  if (!arr) {
 
